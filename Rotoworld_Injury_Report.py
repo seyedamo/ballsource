@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[51]:
 
 import urllib2
 from bs4 import BeautifulSoup
